@@ -1,0 +1,6 @@
+{
+  "name": "Focus Timer with Distraction Blocker",
+  "description": "A productivity web application with customizable Pomodoro focus sessions, distraction blocker shielding, daily and weekly analytics, and downloadable Python Flask & SQLite3 project source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
